@@ -1,0 +1,28 @@
+.logo {
+  width: 60px;
+  height: 60px;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.nav-link {
+  color: #333333 !important;
+}
+
+.headerLogoText {
+  align-items: center;
+  color: #da924e;
+  font-weight: 700;
+  font-size: 20px;
+}
+.calenderIcon {
+  position: absolute;
+  top: 2.5rem;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+

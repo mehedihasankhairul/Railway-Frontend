@@ -1,0 +1,13 @@
+
+.search-submit-btn {
+width: 100%;
+    background: #006747;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    height: 40px;
+}
